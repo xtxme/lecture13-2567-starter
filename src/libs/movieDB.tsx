@@ -1,4 +1,6 @@
-export const movieDB = [
+import { Movie } from "@lib/types";
+
+export const movieDB:Movie[] = [
   {
     id: 1,
     title: "The Shawshank Redemption",
