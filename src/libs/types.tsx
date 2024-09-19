@@ -10,5 +10,5 @@ export interface movieRowProbs {
   id: number;
   title: string;
   rating: number;
-  number: string;
+  number: number;
 }
